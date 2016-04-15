@@ -1,0 +1,10 @@
+20:51:02  RACHEL         LOGIN                                             66.162.13.234
+21:14:32  RACHEL         LOGIN                                             70.198.204.110
+21:22:45  RACHEL         LOGIN                                             70.198.204.110
+21:24:03  MANAGER        LOGIN                                             70.198.204.110
+21:24:32  SUPERINTENDENT LOGIN FAILED                                      70.198.204.110
+21:24:49  SUPERINTENDENT LOGIN FAILED                                      70.198.204.110
+21:25:02  SUPERINTENDENT LOGIN FAILED                                      70.198.204.110
+21:25:16  SUPER          LOGIN                                             70.198.204.110
+21:25:41  RACHEL         LOGIN                                             70.198.204.110
+21:31:48  RACHEL         LOGIN                                             70.198.204.110

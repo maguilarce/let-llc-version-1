@@ -1,0 +1,3 @@
+06:08:07  RACHEL         MOBILE LOGIN                                      72.46.218.28
+14:22:02  MANAGER        LOGIN FAILED                                      70.198.204.236
+14:22:11  MANAGER        LOGIN                                             70.198.204.236

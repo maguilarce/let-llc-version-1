@@ -1,0 +1,7 @@
+16:43:53  RACHEL         LOGIN                                             70.198.204.236
+17:20:01  MANAGER        LOGIN                                             70.198.204.236
+17:20:21  RACHEL         LOGIN                                             70.198.204.236
+18:10:29  SUPER          LOGIN                                             70.198.204.236
+18:11:19  FOREMAN        LOGIN                                             70.198.204.236
+18:13:47  SUPER          LOGIN                                             70.198.204.236
+18:14:27  RACHEL         LOGIN                                             70.198.204.236

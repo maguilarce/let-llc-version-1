@@ -1,0 +1,186 @@
+[11-Jan-2016 12:14:00 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[11-Jan-2016 12:17:23 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[11-Jan-2016 12:20:15 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 165
+[11-Jan-2016 12:20:40 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 165
+[11-Jan-2016 12:25:41 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 165
+[11-Jan-2016 12:27:12 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 165
+[11-Jan-2016 12:28:45 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 165
+[11-Jan-2016 12:30:22 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 165
+[11-Jan-2016 12:31:03 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/aglozsoftware/public_html/let-llc-1/add_daily_data_table.php on line 176
+[11-Jan-2016 12:31:03 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/aglozsoftware/public_html/let-llc-1/add_daily_data_table.php on line 205
+[11-Jan-2016 12:36:27 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 165
+[11-Jan-2016 12:38:16 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 165
+[11-Jan-2016 12:41:28 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 165
+[11-Jan-2016 12:41:46 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 165
+[11-Jan-2016 12:43:00 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 165
+[11-Jan-2016 12:43:50 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 165
+[11-Jan-2016 12:55:24 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 165
+[11-Jan-2016 12:55:42 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 165
+[11-Jan-2016 12:56:06 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 165
+[11-Jan-2016 12:56:50 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 165
+[11-Jan-2016 12:59:51 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 165
+[11-Jan-2016 13:03:52 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 165
+[11-Jan-2016 13:04:07 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 165
+[11-Jan-2016 13:34:45 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 165
+[11-Jan-2016 13:34:47 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 165
+[11-Jan-2016 13:34:48 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 165
+[11-Jan-2016 13:34:53 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 165
+[11-Jan-2016 13:36:47 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 165
+[11-Jan-2016 13:49:21 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[11-Jan-2016 14:04:33 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 168
+[11-Jan-2016 14:04:49 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 168
+[11-Jan-2016 14:10:53 UTC] PHP Notice:  Undefined index: ty in /home/aglozsoftware/public_html/let-llc-1/dashboard.php on line 23
+[11-Jan-2016 14:11:05 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 168
+[11-Jan-2016 14:12:39 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard4.php on line 168
+[11-Jan-2016 14:15:39 UTC] PHP Notice:  Undefined index: project in /home/aglozsoftware/public_html/let-llc-1/add_daily_data_table.php on line 10
+[11-Jan-2016 14:24:10 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard4.php on line 168
+[11-Jan-2016 14:26:04 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard4.php on line 165
+[11-Jan-2016 14:28:14 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard4.php on line 166
+[11-Jan-2016 14:28:30 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard4.php on line 166
+[11-Jan-2016 14:37:26 UTC] PHP Notice:  Undefined variable: result in /home/aglozsoftware/public_html/let-llc-1/dashboard4.php on line 94
+[11-Jan-2016 14:37:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/aglozsoftware/public_html/let-llc-1/dashboard4.php on line 94
+[11-Jan-2016 14:52:09 UTC] PHP Notice:  Undefined variable: employees in /home/aglozsoftware/public_html/let-llc-1/dashboard4.php on line 162
+[11-Jan-2016 14:52:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/aglozsoftware/public_html/let-llc-1/dashboard4.php on line 162
+[11-Jan-2016 15:02:27 UTC] PHP Notice:  Undefined index: logged in /home/aglozsoftware/public_html/let-llc-1/dashboard2.php on line 4
+[11-Jan-2016 15:02:43 UTC] PHP Notice:  Undefined index: logged in /home/aglozsoftware/public_html/let-llc-1/dashboard2.php on line 4
+[11-Jan-2016 15:05:33 UTC] PHP Notice:  Undefined index: logged in /home/aglozsoftware/public_html/let-llc-1/dashboard2.php on line 4
+[11-Jan-2016 15:05:43 UTC] PHP Notice:  Undefined index: logged in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 4
+[27-Jan-2016 19:42:48 UTC] PHP Notice:  Undefined variable: week in /home/aglozsoftware/public_html/let-llc-1/create_weekly_superintendent2.php on line 172
+[27-Jan-2016 19:42:52 UTC] PHP Notice:  Undefined variable: union in /home/aglozsoftware/public_html/let-llc-1/view_weekly_data_table.php on line 475
+[04-Feb-2016 20:11:19 UTC] PHP Notice:  Undefined index: logged in /home/aglozsoftware/public_html/let-llc-1/dashboard.php on line 3
+[02-Mar-2016 22:15:47 UTC] PHP Notice:  Undefined index: logged in /home/aglozsoftware/public_html/let-llc-1/dashboard_cel.php on line 3
+[10-Mar-2016 21:16:50 UTC] PHP Notice:  Undefined variable: union in /home/aglozsoftware/public_html/let-llc-1/view_daily_data_table.php on line 225
+[10-Mar-2016 21:17:12 UTC] PHP Notice:  Undefined variable: week in /home/aglozsoftware/public_html/let-llc-1/create_weekly_superintendent2.php on line 172
+[10-Mar-2016 21:29:14 UTC] PHP Notice:  Undefined variable: week in /home/aglozsoftware/public_html/let-llc-1/create_weekly_superintendent2.php on line 172
+[10-Mar-2016 21:29:18 UTC] PHP Notice:  Undefined variable: union in /home/aglozsoftware/public_html/let-llc-1/view_weekly_data_table.php on line 475
+[10-Mar-2016 21:29:42 UTC] PHP Notice:  Undefined variable: week in /home/aglozsoftware/public_html/let-llc-1/create_weekly_superintendent2.php on line 172
+[10-Mar-2016 21:30:38 UTC] PHP Notice:  Undefined index: counties in /home/aglozsoftware/public_html/let-llc-1/edit_project_profile4.php on line 5
+[10-Mar-2016 21:30:38 UTC] PHP Notice:  Undefined variable: decode in /home/aglozsoftware/public_html/let-llc-1/edit_project_profile4.php on line 20
+[10-Mar-2016 21:30:38 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/aglozsoftware/public_html/let-llc-1/edit_project_profile4.php on line 20
+[10-Mar-2016 21:30:42 UTC] PHP Notice:  Undefined index: state in /home/aglozsoftware/public_html/let-llc-1/edit_process_jurisdiction.php on line 5
+[10-Mar-2016 21:30:42 UTC] PHP Notice:  Undefined index: county in /home/aglozsoftware/public_html/let-llc-1/edit_process_jurisdiction.php on line 6
+[10-Mar-2016 21:31:34 UTC] PHP Notice:  Undefined index: logged in /home/aglozsoftware/public_html/let-llc-1/top.php on line 4
+[10-Mar-2016 21:31:34 UTC] PHP Notice:  Undefined index: counties in /home/aglozsoftware/public_html/let-llc-1/edit_project_profile4.php on line 5
+[10-Mar-2016 21:31:34 UTC] PHP Notice:  Undefined variable: decode in /home/aglozsoftware/public_html/let-llc-1/edit_project_profile4.php on line 20
+[10-Mar-2016 21:31:34 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/aglozsoftware/public_html/let-llc-1/edit_project_profile4.php on line 20
+[10-Mar-2016 21:41:23 UTC] PHP Notice:  Undefined variable: week in /home/aglozsoftware/public_html/let-llc-1/create_weekly_superintendent2.php on line 172
+[10-Mar-2016 21:41:25 UTC] PHP Notice:  Undefined variable: union in /home/aglozsoftware/public_html/let-llc-1/view_weekly_data_table.php on line 475
+[10-Mar-2016 21:41:42 UTC] PHP Notice:  Undefined variable: week in /home/aglozsoftware/public_html/let-llc-1/create_weekly_superintendent2.php on line 172
+[11-Mar-2016 14:10:07 UTC] PHP Notice:  Undefined variable: level in /home/aglozsoftware/public_html/let-llc-1/create_project_profile2.php on line 115
+[11-Mar-2016 14:10:56 UTC] PHP Notice:  Undefined variable: level in /home/aglozsoftware/public_html/let-llc-1/create_project_profile2.php on line 115
+[11-Mar-2016 14:12:02 UTC] PHP Notice:  Undefined index: employees in /home/aglozsoftware/public_html/let-llc-1/process_jurisdiction.php on line 7
+[11-Mar-2016 14:13:48 UTC] PHP Notice:  Undefined index: employees in /home/aglozsoftware/public_html/let-llc-1/process_jurisdiction.php on line 7
+[11-Mar-2016 14:29:00 UTC] PHP Notice:  Undefined index: counties in /home/aglozsoftware/public_html/let-llc-1/edit_project_profile4.php on line 5
+[11-Mar-2016 14:29:00 UTC] PHP Notice:  Undefined variable: decode in /home/aglozsoftware/public_html/let-llc-1/edit_project_profile4.php on line 20
+[11-Mar-2016 14:29:00 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/aglozsoftware/public_html/let-llc-1/edit_project_profile4.php on line 20
+[11-Mar-2016 14:29:03 UTC] PHP Notice:  Undefined index: state in /home/aglozsoftware/public_html/let-llc-1/edit_process_jurisdiction.php on line 5
+[11-Mar-2016 14:29:03 UTC] PHP Notice:  Undefined index: county in /home/aglozsoftware/public_html/let-llc-1/edit_process_jurisdiction.php on line 6
+[11-Mar-2016 14:34:31 UTC] PHP Notice:  Undefined variable: level in /home/aglozsoftware/public_html/let-llc-1/create_project_profile2.php on line 115
+[11-Mar-2016 21:08:37 UTC] PHP Notice:  Undefined variable: week in /home/aglozsoftware/public_html/let-llc-1/create_weekly_superintendent2.php on line 172
+[11-Mar-2016 21:08:41 UTC] PHP Notice:  Undefined variable: union in /home/aglozsoftware/public_html/let-llc-1/view_weekly_data_table.php on line 475
+[15-Mar-2016 13:11:30 UTC] PHP Notice:  Undefined index: logged in /home/aglozsoftware/public_html/let-llc-1/dashboard_cel.php on line 3
+[16-Mar-2016 16:58:17 UTC] PHP Notice:  Undefined variable: week in /home/aglozsoftware/public_html/let-llc-1/create_weekly_superintendent2.php on line 172
+[17-Mar-2016 16:27:53 UTC] PHP Notice:  Undefined index: daily_lump_sum_rate in /home/aglozsoftware/public_html/let-llc-1/add_daily_data.php on line 11
+[17-Mar-2016 16:48:26 UTC] PHP Notice:  Undefined index: weekly_lump_payments in /home/aglozsoftware/public_html/let-llc-1/process_week2.php on line 5
+[17-Mar-2016 17:01:26 UTC] PHP Notice:  Undefined variable: week in /home/aglozsoftware/public_html/let-llc-1/create_weekly_superintendent2.php on line 172
+[17-Mar-2016 17:01:33 UTC] PHP Notice:  Undefined variable: union in /home/aglozsoftware/public_html/let-llc-1/view_weekly_data_table.php on line 475
+[17-Mar-2016 17:03:57 UTC] PHP Notice:  Undefined variable: union in /home/aglozsoftware/public_html/let-llc-1/view_daily_data_table.php on line 225
+[17-Mar-2016 17:04:37 UTC] PHP Notice:  Undefined variable: union in /home/aglozsoftware/public_html/let-llc-1/view_daily_data_table.php on line 225
+[18-Mar-2016 16:07:05 UTC] PHP Notice:  Undefined variable: week in /home/aglozsoftware/public_html/let-llc-1/create_weekly_superintendent2.php on line 172
+[18-Mar-2016 16:07:09 UTC] PHP Notice:  Undefined variable: union in /home/aglozsoftware/public_html/let-llc-1/view_weekly_data_table.php on line 475
+[18-Mar-2016 16:09:25 UTC] PHP Notice:  Undefined variable: week in /home/aglozsoftware/public_html/let-llc-1/create_weekly_superintendent2.php on line 172
+[18-Mar-2016 16:09:33 UTC] PHP Notice:  Undefined variable: union in /home/aglozsoftware/public_html/let-llc-1/view_weekly_data_table.php on line 475
+[18-Mar-2016 16:10:51 UTC] PHP Notice:  Undefined variable: union in /home/aglozsoftware/public_html/let-llc-1/view_daily_data_table.php on line 225
+[18-Mar-2016 16:12:04 UTC] PHP Notice:  Undefined index: logged in /home/aglozsoftware/public_html/let-llc-1/dashboard2.php on line 4
+[18-Mar-2016 16:13:49 UTC] PHP Notice:  Undefined variable: week in /home/aglozsoftware/public_html/let-llc-1/create_weekly_superintendent2.php on line 172
+[18-Mar-2016 16:13:53 UTC] PHP Notice:  Undefined variable: union in /home/aglozsoftware/public_html/let-llc-1/view_weekly_data_table.php on line 475
+[18-Mar-2016 16:15:11 UTC] PHP Notice:  Undefined variable: union in /home/aglozsoftware/public_html/let-llc-1/view_daily_data_table.php on line 225
+[18-Mar-2016 16:26:20 UTC] PHP Notice:  Undefined variable: week in /home/aglozsoftware/public_html/let-llc-1/create_weekly_superintendent2.php on line 172
+[18-Mar-2016 16:26:24 UTC] PHP Notice:  Undefined variable: union in /home/aglozsoftware/public_html/let-llc-1/view_weekly_data_table.php on line 475
+[18-Mar-2016 17:04:54 UTC] PHP Notice:  Undefined index: daily_premium_rate in /home/aglozsoftware/public_html/let-llc-1/add_daily_data.php on line 10
+[18-Mar-2016 17:04:54 UTC] PHP Notice:  Undefined index: daily_lump_sum_rate in /home/aglozsoftware/public_html/let-llc-1/add_daily_data.php on line 11
+[18-Mar-2016 17:06:16 UTC] PHP Notice:  Undefined variable: union in /home/aglozsoftware/public_html/let-llc-1/view_daily_data_table.php on line 225
+[18-Mar-2016 17:07:03 UTC] PHP Notice:  Undefined index: daily_lump_sum_rate in /home/aglozsoftware/public_html/let-llc-1/add_daily_data.php on line 11
+[18-Mar-2016 17:07:18 UTC] PHP Notice:  Undefined index: daily_premium_rate in /home/aglozsoftware/public_html/let-llc-1/add_daily_data.php on line 10
+[18-Mar-2016 17:07:18 UTC] PHP Notice:  Undefined index: daily_lump_sum_rate in /home/aglozsoftware/public_html/let-llc-1/add_daily_data.php on line 11
+[18-Mar-2016 17:15:59 UTC] PHP Notice:  Undefined variable: union in /home/aglozsoftware/public_html/let-llc-1/view_daily_data_table.php on line 225
+[24-Mar-2016 14:42:38 UTC] PHP Notice:  Undefined index: counties in /home/aglozsoftware/public_html/let-llc-1/edit_project_profile4.php on line 5
+[24-Mar-2016 14:42:38 UTC] PHP Notice:  Undefined variable: decode in /home/aglozsoftware/public_html/let-llc-1/edit_project_profile4.php on line 20
+[24-Mar-2016 14:42:38 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/aglozsoftware/public_html/let-llc-1/edit_project_profile4.php on line 20
+[24-Mar-2016 14:42:44 UTC] PHP Notice:  Undefined index: state in /home/aglozsoftware/public_html/let-llc-1/edit_process_jurisdiction.php on line 5
+[24-Mar-2016 14:42:44 UTC] PHP Notice:  Undefined index: county in /home/aglozsoftware/public_html/let-llc-1/edit_process_jurisdiction.php on line 6
+[24-Mar-2016 14:45:14 UTC] PHP Notice:  Undefined index: counties in /home/aglozsoftware/public_html/let-llc-1/edit_project_profile4.php on line 5
+[24-Mar-2016 14:45:14 UTC] PHP Notice:  Undefined variable: decode in /home/aglozsoftware/public_html/let-llc-1/edit_project_profile4.php on line 20
+[24-Mar-2016 14:45:14 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/aglozsoftware/public_html/let-llc-1/edit_project_profile4.php on line 20
+[24-Mar-2016 14:45:19 UTC] PHP Notice:  Undefined index: state in /home/aglozsoftware/public_html/let-llc-1/edit_process_jurisdiction.php on line 5
+[24-Mar-2016 14:45:19 UTC] PHP Notice:  Undefined index: county in /home/aglozsoftware/public_html/let-llc-1/edit_process_jurisdiction.php on line 6
+[07-Apr-2016 17:22:59 UTC] PHP Notice:  Undefined variable: query1 in /home/aglozsoftware/public_html/let-llc-1/edit_project_profile3.php on line 18
+[07-Apr-2016 17:22:59 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/aglozsoftware/public_html/let-llc-1/edit_project_profile3.php on line 19
+[07-Apr-2016 17:23:06 UTC] PHP Notice:  Undefined index: user_au in /home/aglozsoftware/public_html/let-llc-1/edit_project_profile4.php on line 13
+[07-Apr-2016 17:23:13 UTC] PHP Notice:  Undefined index: user_au in /home/aglozsoftware/public_html/let-llc-1/edit_process_jurisdiction.php on line 14
+[07-Apr-2016 17:24:22 UTC] PHP Notice:  Undefined variable: week in /home/aglozsoftware/public_html/let-llc-1/create_weekly_superintendent2.php on line 172
+[07-Apr-2016 17:24:28 UTC] PHP Notice:  Undefined variable: union in /home/aglozsoftware/public_html/let-llc-1/view_weekly_data_table.php on line 475
+[07-Apr-2016 17:27:15 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[07-Apr-2016 17:27:24 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[07-Apr-2016 17:28:35 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[07-Apr-2016 17:29:13 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[07-Apr-2016 17:29:19 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[07-Apr-2016 17:31:53 UTC] PHP Notice:  Undefined variable: week in /home/aglozsoftware/public_html/let-llc-1/create_weekly_superintendent2.php on line 172
+[07-Apr-2016 17:51:41 UTC] PHP Notice:  Undefined variable: query1 in /home/aglozsoftware/public_html/let-llc-1/edit_project_profile3.php on line 18
+[07-Apr-2016 17:51:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/aglozsoftware/public_html/let-llc-1/edit_project_profile3.php on line 19
+[07-Apr-2016 17:51:44 UTC] PHP Notice:  Undefined index: user_au in /home/aglozsoftware/public_html/let-llc-1/edit_project_profile4.php on line 13
+[07-Apr-2016 17:51:47 UTC] PHP Notice:  Undefined index: user_au in /home/aglozsoftware/public_html/let-llc-1/edit_process_jurisdiction.php on line 14
+[07-Apr-2016 17:52:11 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[07-Apr-2016 17:52:53 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[07-Apr-2016 17:53:30 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[07-Apr-2016 17:53:35 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[07-Apr-2016 17:54:18 UTC] PHP Notice:  Undefined variable: week in /home/aglozsoftware/public_html/let-llc-1/create_weekly_superintendent2.php on line 172
+[07-Apr-2016 17:55:06 UTC] PHP Notice:  Undefined variable: week in /home/aglozsoftware/public_html/let-llc-1/create_weekly_superintendent2.php on line 172
+[07-Apr-2016 17:55:33 UTC] PHP Notice:  Undefined variable: union in /home/aglozsoftware/public_html/let-llc-1/view_weekly_data_table.php on line 475
+[07-Apr-2016 17:55:50 UTC] PHP Notice:  Undefined variable: week in /home/aglozsoftware/public_html/let-llc-1/create_weekly_superintendent2.php on line 172
+[07-Apr-2016 17:56:10 UTC] PHP Notice:  Undefined variable: union in /home/aglozsoftware/public_html/let-llc-1/view_weekly_data_table.php on line 475
+[07-Apr-2016 17:56:20 UTC] PHP Notice:  Undefined variable: week in /home/aglozsoftware/public_html/let-llc-1/create_weekly_superintendent2.php on line 172
+[07-Apr-2016 17:56:30 UTC] PHP Notice:  Undefined variable: union in /home/aglozsoftware/public_html/let-llc-1/view_weekly_data_table.php on line 475
+[07-Apr-2016 17:56:35 UTC] PHP Notice:  Undefined variable: week in /home/aglozsoftware/public_html/let-llc-1/create_weekly_superintendent2.php on line 172
+[07-Apr-2016 17:56:45 UTC] PHP Notice:  Undefined variable: union in /home/aglozsoftware/public_html/let-llc-1/view_weekly_data_table.php on line 475
+[07-Apr-2016 18:01:13 UTC] PHP Notice:  Undefined variable: week in /home/aglozsoftware/public_html/let-llc-1/create_weekly_superintendent2.php on line 172
+[07-Apr-2016 18:01:21 UTC] PHP Notice:  Undefined variable: union in /home/aglozsoftware/public_html/let-llc-1/view_weekly_data_table.php on line 475
+[07-Apr-2016 18:12:59 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[07-Apr-2016 18:13:17 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[07-Apr-2016 18:20:43 UTC] PHP Notice:  Undefined variable: query1 in /home/aglozsoftware/public_html/let-llc-1/edit_project_profile3.php on line 18
+[07-Apr-2016 18:20:43 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/aglozsoftware/public_html/let-llc-1/edit_project_profile3.php on line 19
+[07-Apr-2016 18:20:48 UTC] PHP Notice:  Undefined variable: query1 in /home/aglozsoftware/public_html/let-llc-1/edit_project_profile3.php on line 18
+[07-Apr-2016 18:20:48 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/aglozsoftware/public_html/let-llc-1/edit_project_profile3.php on line 19
+[07-Apr-2016 18:21:26 UTC] PHP Notice:  Undefined index: user_au in /home/aglozsoftware/public_html/let-llc-1/edit_project_profile4.php on line 13
+[07-Apr-2016 18:21:31 UTC] PHP Notice:  Undefined index: counties in /home/aglozsoftware/public_html/let-llc-1/edit_project_profile4.php on line 5
+[07-Apr-2016 18:21:31 UTC] PHP Notice:  Undefined index: user_au in /home/aglozsoftware/public_html/let-llc-1/edit_project_profile4.php on line 13
+[07-Apr-2016 18:21:31 UTC] PHP Notice:  Undefined variable: decode in /home/aglozsoftware/public_html/let-llc-1/edit_project_profile4.php on line 21
+[07-Apr-2016 18:21:31 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/aglozsoftware/public_html/let-llc-1/edit_project_profile4.php on line 21
+[07-Apr-2016 18:21:38 UTC] PHP Notice:  Undefined index: user_au in /home/aglozsoftware/public_html/let-llc-1/edit_process_jurisdiction.php on line 14
+[07-Apr-2016 18:22:02 UTC] PHP Notice:  Undefined index: state in /home/aglozsoftware/public_html/let-llc-1/edit_process_jurisdiction.php on line 5
+[07-Apr-2016 18:22:02 UTC] PHP Notice:  Undefined index: county in /home/aglozsoftware/public_html/let-llc-1/edit_process_jurisdiction.php on line 6
+[07-Apr-2016 18:22:02 UTC] PHP Notice:  Undefined index: user_au in /home/aglozsoftware/public_html/let-llc-1/edit_process_jurisdiction.php on line 14
+[07-Apr-2016 18:23:39 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[07-Apr-2016 18:23:42 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[07-Apr-2016 18:25:59 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[07-Apr-2016 18:26:00 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[07-Apr-2016 18:27:05 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[07-Apr-2016 18:27:08 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[07-Apr-2016 18:29:53 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[07-Apr-2016 18:30:04 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[07-Apr-2016 18:30:08 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[07-Apr-2016 18:30:51 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[07-Apr-2016 18:35:55 UTC] PHP Notice:  Undefined variable: union in /home/aglozsoftware/public_html/let-llc-1/view_daily_data_table.php on line 225
+[07-Apr-2016 18:38:48 UTC] PHP Notice:  Undefined index: weekly_lump_payments in /home/aglozsoftware/public_html/let-llc-1/process_week2.php on line 5
+[13-Apr-2016 12:28:49 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[13-Apr-2016 12:28:55 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[13-Apr-2016 12:53:52 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[13-Apr-2016 13:00:52 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[13-Apr-2016 13:01:26 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[13-Apr-2016 13:03:22 UTC] PHP Notice:  Undefined variable: union in /home/aglozsoftware/public_html/let-llc-1/view_daily_data_table.php on line 225
+[13-Apr-2016 13:03:37 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[13-Apr-2016 13:04:40 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[13-Apr-2016 13:08:57 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[13-Apr-2016 13:09:35 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[13-Apr-2016 13:11:26 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164
+[13-Apr-2016 13:12:33 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/aglozsoftware/public_html/let-llc-1/dashboard3.php on line 164

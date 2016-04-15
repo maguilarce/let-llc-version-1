@@ -1,0 +1,30 @@
+17:22:05  RACHEL         LOGIN                                             70.192.204.255
+17:27:15  FOREMAN        LOGIN                                             70.192.204.255
+17:28:17  SUPERINTENDENT LOGIN FAILED                                      70.192.204.255
+17:28:34  SUPER          LOGIN                                             70.192.199.80
+17:29:13  MANAGER        LOGIN                                             70.192.204.255
+17:31:12  RACHEL         LOGIN                                             70.192.204.255
+17:52:11  FOREMAN        LOGIN                                             70.192.204.255
+17:52:53  SUPER          LOGIN                                             70.192.204.255
+17:53:30  MANAGER        LOGIN                                             70.192.204.255
+17:53:59  RACHEL         LOGIN                                             70.192.204.255
+18:12:41  MANAGER        LOGIN FAILED                                      66.162.13.234
+18:12:59  MANAGER        LOGIN                                             66.162.13.234
+18:13:17  MANAGER        LOGIN                                             70.192.204.255
+18:13:39  RACHEL         LOGIN                                             66.162.13.234
+18:13:40  RACHEL         LOGIN                                             70.192.204.255
+18:23:39  FOREMAN        LOGIN                                             70.192.204.255
+18:23:42  FOREMAN        LOGIN                                             66.162.13.234
+18:25:59  SUPER          LOGIN                                             66.162.13.234
+18:26:00  SUPER          LOGIN                                             70.192.204.255
+18:27:05  MANAGER        LOGIN                                             70.192.204.255
+18:27:08  MANAGER        LOGIN                                             66.162.13.234
+18:29:53  FOREMAN        LOGIN                                             70.192.204.255
+18:30:04  SUPER          LOGIN                                             66.162.13.234
+18:30:08  SUPER          LOGIN                                             70.192.204.255
+18:30:38  RACHEL         LOGIN                                             70.192.204.255
+18:30:51  MANAGER        LOGIN                                             66.162.13.234
+18:31:41  RACHEL         LOGIN                                             70.192.204.255
+18:32:17  RACHEL         LOGIN                                             70.192.204.255
+18:33:27  RACHEL         LOGIN FAILED                                      66.162.13.234
+18:33:36  RACHEL         LOGIN                                             66.162.13.234

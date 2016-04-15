@@ -1,0 +1,223 @@
+<?php
+require_once('connection.php');
+session_start();
+$id = $_POST['id'];
+$query = "SELECT * FROM project WHERE project_id='$id'";
+$result = mysql_query($query);
+$row = mysql_fetch_array($result,1);
+
+$query2 = "SELECT * from user";
+$result2 = mysql_query($query2);
+
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta charset="utf-8">
+		<title>Let LLC Time Sheet App</title>
+		<meta name="generator" content="Bootply" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		
+		<link href="css/styles.css" rel="stylesheet">
+                <link href="css/bootstrap.min.css" rel="stylesheet">
+                <!-- date picker css -->
+                <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+                <link href="http://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.3.0/css/datepicker.css" rel="stylesheet" type="text/css" />
+                 <!-- date picker bootstrap -->
+                <script src="http://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.3.0/js/bootstrap-datepicker.js"></script>
+                <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+    
+
+
+	</head>
+	<body>
+
+<!-- Main -->
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-sm-9">
+            <div class="row">
+                <!-- center left-->
+                <div class="col-md-6">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <div class="panel-title">
+                                <i class="glyphicon glyphicon-wrench pull-right"></i>
+                                <h4>Edit Project Profile - Step 1/4</h4>
+                            </div>
+                        </div>
+                        <div class="panel-body">
+                            <form method="post" action="edit_project_profile2.php" class="form form-vertical">
+                                <div class="control-group">
+                                    <label>Project Name:</label>
+                                    <div class="controls">
+                                        <input id="pname" name="pname" type="text" class="form-control" value="<?php echo $row['project_name']; ?>">
+                                    </div>
+                                </div><br />
+                                <div class="control-group">
+                                    <label>Project Description:</label>
+                                    <div class="controls">
+                                        <input id="pdescription" name="pdescription" type="text" class="form-control" value="<?php echo $row['project_description']; ?>">
+                                    </div>
+                                </div><br />
+                                
+                               
+                                 <div class="control-group">
+                                    <label>General Contractor: </label>
+                                    <div class="controls">
+                                        <input id="general_contractor" name="general_contractor" type="text" class="form-control" value="<?php echo $row['general_contractor']; ?>">
+                                    </div>
+                                </div><br />
+                                 <div class="control-group">
+                                    <label>Person in charge of this project: </label>
+                                    <div class="controls">
+                                        <input id="in_charge_of" name="in_charge_of" type="text" class="form-control" value="<?php echo $row['in_charge_of']; ?>">
+                                    </div><br />
+                                </div> 
+                                <div class="control-group">
+                                    <label>Authorized User Associated to this Project: </label>
+                                    <div class="controls">
+                                        <select name="user_au" class="form-control">
+                                            <option value="9999">Everyone</option>
+                                            <?php
+                                            while($row1 =  mysql_fetch_array($result2,MYSQL_ASSOC))                                            
+                                            { 
+                                                if($row['user_id']==$row1['iduser']){
+                                                echo "<option selected value=".$row1['iduser'].">{$row1['l_name']},{$row1['f_name']}</option>";
+                                                }
+                                                if($row['user_id']!=$row1['iduser']){
+                                                echo "<option value=".$row1['iduser'].">{$row1['l_name']},{$row1['f_name']}</option>";
+                                                }
+                                            }
+                                           ?>
+                                                    
+                                        </select>
+                                        
+                                    </div><br>
+                                </div> 
+                                <div class="control-group">
+                                    <label>Project Starting Date: </label>
+                                     <div class="controls">
+                                         <input name="starting_date" class="datepicker form-control" readonly='true' type="text" value="<?php echo $row['starting_date']; ?>">
+                                            <span class="add-on"><i class="icon-th"></i></span>
+                                        
+                                     </div>
+                                    
+                                </div><br />
+                                <div class="control-group">
+                                    <label>Project Completion Date: </label>
+                                     <div class="controls">
+                                         <input name="completion_date" class="datepicker form-control" readonly='true' type="text" value="<?php echo $row['completion_date']; ?>">
+                                            <span class="add-on"><i class="icon-th"></i></span>
+                                        
+                                     </div>
+                                    
+                                </div><br />
+                              
+                                
+                                
+                                <button type="submit" class="btn btn-primary">
+                                    Continue to Step 2 >>
+                                </button>
+                                <input type="hidden" name="project_id" value="<?php echo $id; ?>">
+                                <input type="hidden" name="old_project_name" value="<?php echo $row['project_name']; ?>">
+                        </form>
+                        </div>
+                        <!--/panel content-->
+                    </div>
+                    <!--/panel-->                
+                <!--/col-span-6-->
+
+            </div>
+            <!--/row-->
+        </div>
+        <!--/col-span-9-->
+    </div>
+</div>
+<!-- /Main -->
+
+<div class="modal" id="addWidgetModal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title">Add Widget</h4>
+            </div>
+            <div class="modal-body">
+                <p>Add a widget stuff here..</p>
+            </div>
+            <div class="modal-footer">
+                <a href="#" data-dismiss="modal" class="btn">Close</a>
+                <a href="#" class="btn btn-primary">Save changes</a>
+            </div>
+        </div>
+        <!-- /.modal-content -->
+    </div>
+    <!-- /.modal-dalog -->
+</div>
+<!-- /.modal -->
+	<!-- script references -->
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script src="js/scripts.js"></script>
+                <!-- filter and pagination -->
+                <script data-config>
+                var filtersConfig = {          
+                paging: true,  
+                paging_length: 20,  
+                results_per_page: ['# rows per page',[20,10,8,6,4,2]],  
+                rows_counter: true,  
+                rows_counter_text: "Rows:",  
+                display_all_text: " [ Show all ] ",
+                loader: true, 
+                col_0: 'select',
+                col_1: 'select',
+                col_2: 'select',
+                col_3: 'select',
+                col_4: 'select',
+                col_5: 'select',
+                col_6: 'select',
+                col_7: 'select',
+                col_8: 'select',
+                col_9: 'select',
+                col_10: 'select',
+                col_11: 'none',
+                col_12: 'none',
+                       
+                extensions:[
+                    {
+
+                        editable: false,
+                        selection: false
+
+                    }, {
+                        name: 'sort',
+                        types: [
+                            'string', 'string', 'number',
+                            'number', 'number', 'number',
+                            'number', 'number', 'number'
+                        ]
+                    }
+                ]
+            };
+
+            var tf = new TableFilter('demo', filtersConfig);
+            tf.init();
+            
+</script>
+
+                
+<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+  <script>
+  $(function() {
+    $( ".datepicker" ).datepicker({
+        dateFormat: 'yy-mm-dd'
+        
+    });
+  });
+  </script>
+	</body>
+</html>
